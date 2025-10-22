@@ -2,7 +2,7 @@ html, body {
   background-color: #cceeef; /* <-- pick any color you like */
 }
 
-/* Also override any inner content containers that may have white backgrounds */
+/* Also override any inner content containers that may have white backgrounds 
 .wrapper,
 .page,
 .page__content,
@@ -11,4 +11,24 @@ html, body {
 #main,
 .page__inner-wrap {
   background-color: transparent !important;
+}
+*/
+html, body {
+  background-color: #1e3a8a; /* dark blue background */
+  color: #f5f5f5; /* light gray text */
+}
+
+/* Make sure headers, paragraphs, and links all use light colors */
+h1, h2, h3, h4, h5, h6,
+p, li, span, div {
+  color: #f5f5f5 !important;
+}
+
+/* Lighten links a bit for contrast */
+a {
+  color: #93c5fd !important; /* lighter blue link */
+}
+
+a:hover {
+  color: #bfdbfe !important; /* even lighter on hover */
 }
