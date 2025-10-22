@@ -1,3 +1,14 @@
-body {
-  background-color: #cceeef; /* Change this to your preferred color */
+html, body {
+  background-color: #cceeef; /* <-- pick any color you like */
+}
+
+/* Also override any inner content containers that may have white backgrounds */
+.wrapper,
+.page,
+.page__content,
+.site-content,
+.main,
+#main,
+.page__inner-wrap {
+  background-color: transparent !important;
 }
