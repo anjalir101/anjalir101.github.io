@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical and Computer Engineering, The University of Texas at Austin (current)
+* B.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024 & 2025: Product Test Engineering Intern
+  * Texas Instruments
+  * High Density Flash Validation (2024), Test Technology Solutions (2025)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024-2025: Research Assistant
+  * Computational Imaging and Sensing Lab
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-2024: Research Assistant
+  * Microelectronics Research Center
+  * Supervisor: Dr. Ananth Dodabalapur
   
 Skills
 ======
