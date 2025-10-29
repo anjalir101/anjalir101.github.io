@@ -50,10 +50,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Undergraduate Teaching Assistant - ECE
+  * ECE 306 (Introduction to Computing)
+  * ECE 411 (Circuit Theory)
+  * ECE 411H (Circuit Theory Honors)
+
+* First Year Interest Group Mentor 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* HKN (Eta Kappa Nu) Service Coordinator
