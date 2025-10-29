@@ -38,15 +38,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Raghavan, A., Telang, N. Engineering Bright Futures: A College Mentorship Program for Title I Public High Schools in Austin, TX. American Society for Engineering Education (ASEE), 2024. 
   
 Teaching
 ======
